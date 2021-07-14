@@ -1,0 +1,7 @@
+5
+Rimas     195.5   45
+Robertas  165     13
+Jurgis    205     36
+Matas     158     50
+Antanas   145     5
+10 20

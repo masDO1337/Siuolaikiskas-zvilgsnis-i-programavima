@@ -1,0 +1,44 @@
+Sukurti penkis skirtingus pradinių duomenų failus: (duomenysPS1; duomenysPS2; duomenysPS3; duomenysPS4; duomenysPS5)
+1) skaičių sekoje yra tik vienas skaičius
+2) skaičių sekoje nėra skaičių
+3) skaičių sekoje nėra skaičiaus m
+4) skaičius m yra skaičių sekos pradžioje
+5) skaičius m yra skaičių sekos pabaigoje
+
+
+Papildyti programą 74-10 Pasikartojantys skaičiai:
+1) papildyti funkcija, kuri skaičių seką įrašo į rezultatų lentelę (rezultato pvz faile "RezultataiPS1")
+2) sukurti dialogą įterpiamimes skaičiams įvesti klaviatūra
+3) įterpiamus skaičius įrašyti į failą, o po to juos įterpti į skaičių seką
+4) pašalinti sekos dalį, kurioje yra skaičiai m.
+
+PS Papidymus išsaugoti vardais 74-10_Pap1; 74-10_Pap2; 74-10_Pap3; 74-10_Pap4
+
+Atsiųsti dokumentus:
+duomenysPS1; duomenysPS2; duomenysPS3; duomenysPS4; duomenysPS5
+74-10_Pap1; 74-10_Pap2; 74-10_Pap3; 74-10_Pap4
+
+RezultataiPS.txt
+Skaičių seka 
+----------------
+Kiekis  Skaičius
+   3   3
+   2   0
+   2   11
+   1   9
+   3   13
+   2   7
+   3   1
+----------------
+Skaičiaus 11 indeksas masyve 5
+ Skaičių seka 
+----------------
+Kiekis  Skaičius
+   3   3
+   2   0
+   3   11
+   1   9
+   3   13
+   2   7
+   3   1
+----------------

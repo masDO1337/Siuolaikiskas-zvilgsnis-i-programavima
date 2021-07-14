@@ -1,0 +1,9 @@
+0 1 1 1 1 0 1 0 1 
+1 1 0 0 1 0 1 0 1 
+0 1 1 1 0 0 0 0 0 
+1 1 0 1 1 1 1 1 1 
+0 1 0 1 0 0 0 0 0 
+Naktis, kai sviete
+Daugiausia: 9
+Naktis, kai sviete
+Maziausiai: 13

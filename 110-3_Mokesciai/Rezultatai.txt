@@ -1,0 +1,10 @@
+Už šilumą turi būti sumokėta: 79.65
+Už telefoną turi būti sumokėta: 63.16
+Už vandenį turi būti sumokėta: 14.45
+-------------------------------------------
+ Vardas          Turi moketi
+-------------------------------------------
+ Rimas           15.5      
+ Robertas        18.7      
+ Matas           123.06    
+-------------------------------------------

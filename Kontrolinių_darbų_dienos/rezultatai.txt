@@ -1,0 +1,7 @@
+Galutinis
+6 2
+19 2
+20 1
+26 1
+Papildomas
+6 1

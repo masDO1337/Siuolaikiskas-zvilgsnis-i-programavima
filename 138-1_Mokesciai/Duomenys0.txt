@@ -1,0 +1,6 @@
+5
+Pirmasis Petras     15 5.5 0.0 -54.0
+Antrute Jurgita     13 -25.05 2.5 -13
+Katyte Pilkute      1 0.0 0.0 0.0
+Katinas Batuotas    16 -5.5 -18.2 -45.0
+Basas Algis         14 2.2 2.2 2.2

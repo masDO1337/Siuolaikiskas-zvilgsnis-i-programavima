@@ -1,0 +1,6 @@
+0 1 0 1 1 1 
+1 1 0 1 0 1 
+Naktis, kai sviete
+Daugiausia: 1
+Naktis, kai sviete
+Maziausiai: 1

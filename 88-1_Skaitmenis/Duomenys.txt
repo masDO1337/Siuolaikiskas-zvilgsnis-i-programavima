@@ -1,0 +1,12 @@
+﻿Jūs gerai skaičiuojate? Tikrai? Patikrinsim!.. Siūlau keletą visiškai (
+paprastų, didelio dėmesio nereikalaujančių veiksmų... Pasiruošę? i
+Pradedam... Tuščias autobusas išvažiuoja savo įprastu maršrutu. Pirmoje
+stotelėje įlipa 15 keleivių. Autobusas važiuoja toliau... Kita stotelė.
+10 keleivių įlipa, 12 išlipa. Važiuojam toliau... Kita stotelė: 3 keleiviai
+įlipa, 5 išlipa. Dar viena stotelė: 11 keleivių įlipa, 1 išlipa. Autobusas
+važiuoja toliau... Kita stotelė. 5 keleiviai įlipa, niekas neišlipa.
+Autobusas važiuoja toliau... Kita stotelė: niekas neįlipa, 3 išlipa.
+Autobusas važiuoja toliau... Dar viena stotelė: niekas neįlipa, 5 keleiviai
+išlipa. Važiuojam toliau... Kita stotelė: 3 keleiviai įlipa, 2 išlipa.
+Autobusas vėl pajuda ir važiuoja iki paskutinės stotelės. Sustoja. Ar jūs
+pasiruošę klausimui? Na ką gi, jei jau tokie protingi...Kiek buvo stotelių?

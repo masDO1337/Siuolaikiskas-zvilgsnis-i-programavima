@@ -1,0 +1,4 @@
+ Pele baltoji      14
+ Ziurkenas          5
+ Katinas            4
+ Vilkas pilkas      2

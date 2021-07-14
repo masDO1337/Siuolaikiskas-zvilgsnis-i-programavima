@@ -1,0 +1,484 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"t",
+				"translateX()\ttransform"
+			],
+			[
+				"c",
+				"color\tproperty"
+			],
+			[
+				"p",
+				"padding\tproperty"
+			],
+			[
+				"b",
+				"border\tproperty"
+			],
+			[
+				"d",
+				"display\tproperty"
+			],
+			[
+				"e",
+				"echo"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"inclued",
+				"restore_include_path"
+			],
+			[
+				"C",
+				"color\tproperty"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"s",
+				"skewX"
+			],
+			[
+				"r",
+				"rgba()\tbackground"
+			],
+			[
+				"f",
+				"flex-direction\tproperty"
+			],
+			[
+				"o",
+				"overflow\tproperty"
+			],
+			[
+				"a",
+				"auto\twidth"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"log",
+				"logged_in"
+			],
+			[
+				"onk",
+				"onclick\tAttr"
+			],
+			[
+				"borderr",
+				"border-radius\tproperty"
+			],
+			[
+				"aling-",
+				"align-self\tproperty"
+			],
+			[
+				"m",
+				"margin\tproperty"
+			],
+			[
+				"fl",
+				"float\tproperty"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"sh",
+				"text-shadow\tproperty"
+			],
+			[
+				"an",
+				"animation\tproperty"
+			],
+			[
+				"al",
+				"align-items\tproperty"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"ba",
+				"background-size\tproperty"
+			],
+			[
+				"background",
+				"background-image\tproperty"
+			],
+			[
+				"n",
+				"NONE"
+			],
+			[
+				"if",
+				"if\tif"
+			],
+			[
+				"g",
+				"getRotation"
+			],
+			[
+				"T",
+				"this"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"id",
+				"IDs"
+			],
+			[
+				"I",
+				"IDs"
+			],
+			[
+				"ID",
+				"IDS"
+			],
+			[
+				"_",
+				"_shapes"
+			],
+			[
+				"ms",
+				"mouse"
+			],
+			[
+				"k",
+				"keys"
+			],
+			[
+				"onm",
+				"onmove"
+			],
+			[
+				"on",
+				"ondown"
+			],
+			[
+				"st",
+				"StatManager"
+			],
+			[
+				"G",
+				"gameBoard"
+			],
+			[
+				"le",
+				"len"
+			],
+			[
+				"_r",
+				"_reqframe"
+			],
+			[
+				"_f",
+				"_files"
+			],
+			[
+				"v",
+				"var"
+			],
+			[
+				"_l",
+				"_loadcount"
+			],
+			[
+				"_v",
+				"_vh"
+			],
+			[
+				"vie",
+				"view"
+			],
+			[
+				"col",
+				"console"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"img",
+				"image-rendering\tproperty"
+			],
+			[
+				"border",
+				"border-width\tproperty"
+			],
+			[
+				"bor",
+				"border-top\tproperty"
+			],
+			[
+				"bo",
+				"border-radius\tproperty"
+			],
+			[
+				"borderc",
+				"border-color\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 150.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/domas/Documents/C++/main.cpp",
+		"/opt/lampp/htdocs/index.php",
+		"/opt/lampp/htdocs/html/login.html",
+		"/opt/lampp/htdocs/html/main.php",
+		"/opt/lampp/htdocs/css/body.css",
+		"/opt/lampp/htdocs/html/main.html",
+		"/opt/lampp/htdocs/js/app.js",
+		"/opt/lampp/htdocs/css/form.css",
+		"/opt/lampp/htdocs/js/login.js",
+		"/opt/lampp/htdocs/test/index.html",
+		"/opt/lampp/htdocs/db/login.php",
+		"/opt/lampp/htdocs/js/main.js",
+		"/home/domas/Documents/htdocs - 01000010/login/css-js.html",
+		"/opt/lampp/htdocs/db/db.php",
+		"/opt/lampp/htdocs/tetris/js/src/main.js",
+		"/opt/lampp/htdocs/tetris/js/src/Tetris.js",
+		"/opt/lampp/htdocs/tetris/index.html",
+		"/opt/lampp/htdocs/tetris/css/styles.css",
+		"/opt/lampp/htdocs/tetris/js/engine.js",
+		"/opt/lampp/htdocs/tetris/js/src/StatManager.js",
+		"/opt/lampp/htdocs/tetris/js/src/Tetramino.js",
+		"/opt/lampp/htdocs/tetris/js/src/GameBoard.js",
+		"/opt/lampp/htdocs/tetris/js/src/Game.js",
+		"/opt/lampp/htdocs/tetris/js/src/Block.js",
+		"/opt/lampp/htdocs/tetris/js/src/Numfont.js",
+		"/opt/lampp/htdocs/tetris/js/src/Randomizer.js",
+		"/opt/lampp/htdocs/tetris/js/src/GameBoard.ls",
+		"/opt/lampp/htdocs/tetris/js/require.js",
+		"/opt/lampp/htdocs/tetris/js/class.js",
+		"/opt/lampp/htdocs/js/settings.js",
+		"/opt/lampp/htdocs/settings/index.php",
+		"/home/domas/.config/autostart/remmina-applet.desktop",
+		"/home/domas/.themes/Uranus-V0.0.2/index.theme",
+		"/home/domas/.config/dconf/user",
+		"/opt/lampp/htdocs/js/testU.js",
+		"/opt/lampp/htdocs/FileEditor/index.php",
+		"/opt/lampp/htdocs/css/Editor.css",
+		"/opt/lampp/htdocs/js/Editor.js",
+		"/opt/lampp/htdocs/js/files.js",
+		"/opt/lampp/htdocs/FileEditor/edit.php",
+		"/opt/lampp/htdocs/FileEditor/file.php",
+		"/opt/lampp/htdocs/FileEditor/files.php",
+		"/opt/lampp/htdocs/FileEditor/css-js.html",
+		"/opt/lampp/htdocs/js/fileEditor.js",
+		"/opt/lampp/htdocs/js/filsUpload.js",
+		"/opt/lampp/htdocs/css/mainForm.css",
+		"/home/domas/Downloads/NVIDIA-Linux-x86_64-340.107.run",
+		"/home/domas/Downloads/NVIDIA-Linux-x86-340.32.run",
+		"/opt/lampp/htdocs/mouseTest/index.html",
+		"/opt/lampp/htdocs/login/css-js.html",
+		"/opt/lampp/htdocs/Mail/css-js.html",
+		"/opt/lampp/htdocs/settings/css-js.html",
+		"/opt/lampp/htdocs/css-js.html",
+		"/opt/lampp/htdocs/Bar.php",
+		"/opt/lampp/htdocs/js/mouse.js",
+		"/opt/lampp/htdocs/register/css-js.html",
+		"/media/domas/IOS/ico/main.html",
+		"/opt/lampp/htdocs/FileEditor/contextmenu.html",
+		"/home/domas/Downloads/stwperm/install.sh",
+		"/home/domas/Downloads/stwperm/SetAsWallpaper",
+		"/home/domas/Downloads/stwperm/uninstall.sh",
+		"/home/domas/Downloads/Systemback_Install_Pack_v1.8.402/install.sh",
+		"/opt/lampp/htdocs/Mail/mail.php",
+		"/opt/lampp/htdocs/js/mailEditor.js",
+		"/opt/lampp/htdocs/css/Mail.css",
+		"/opt/lampp/htdocs/Mail/index.php",
+		"/opt/lampp/htdocs/Mail/mailINBox.php",
+		"/opt/lampp/htdocs/login/db/login.php"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "main.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 187.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

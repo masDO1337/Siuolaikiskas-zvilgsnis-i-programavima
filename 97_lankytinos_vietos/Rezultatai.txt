@@ -1,0 +1,25 @@
+0
+----------------------------------
+Pradiniai duomenys
+----------------------------------
+Kuršiu nerija
+Trakai
+Novaraiscio ornitologinis draustinis
+Raigardo slenis
+Gruto parkas
+----------------------------------
+Surikiuoti duomenys
+----------------------------------
+Gruto parkas
+Kuršiu nerija
+Novaraiscio ornitologinis draustinis
+Raigardo slenis
+Trakai
+----------------------------------
+Surikiuoti pagal ilgi duomenys
+----------------------------------
+Novaraiscio ornitologinis draustinis
+Raigardo slenis
+Kuršiu nerija
+Gruto parkas
+Trakai

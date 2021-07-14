@@ -1,0 +1,7 @@
+Aa  5 Bb  0 Cc  0 Dd  1 Ee  3 
+Ff  0 Gg  0 Hh  0 Ii 10 Jj  1 
+Kk  1 Ll  3 Mm  0 Nn  2 Oo  1 
+Pp  0 Qq  0 Rr  2 Ss  4 Tt  3 
+Uu  3 Vv  1 Ww  0 Xx  0 Yy  1 
+Zz  0 
+Dažniausiai kartojasi raidė Ii.

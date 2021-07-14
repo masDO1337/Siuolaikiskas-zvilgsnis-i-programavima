@@ -1,0 +1,41 @@
+ Ligonio temperatûra 
+----------------------
+ Valanda Temperatûra
+----------------------
+    0            38.0
+    1            38.5
+    2            39.0
+    3            39.6
+    4            40.0
+    5            39.3
+    6            38.9
+    7            38.8
+    8            38.6
+    9            37.5
+   10            37.2
+   11            37.9
+   12            38.5
+   13            38.5
+   14            39.2
+   15            39.4
+   16            39.5
+   17            39.7
+   18            39.7
+   19            39.9
+   20            40.1
+   21            39.5
+   22            39.8
+   23            38.1
+----------------------
+Auksciausia temperatura 40.1 buvo 20 val.
+Vidutinė temperatūra per visą laikotarpį buvo: 39.0
+Vidutinė temperatūra per nurodytą laikotarpį nuo 10 iki 18 buvo: 38.8
+Auksta temperatura dar buvo:
+3 val. 39.6
+4 val. 40
+17 val. 39.7
+18 val. 39.7
+19 val. 39.9
+20 val. 40.1
+22 val. 39.8
+Artima aukščiausiai temperatūra buvo 7 kartus (-ų):

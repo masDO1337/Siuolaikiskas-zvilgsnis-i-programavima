@@ -1,0 +1,12 @@
+Tekste esantys simboliai:
+
+i 83 a 63 s 49 n 30 r 28 
+k 28 l 23 o 23 t 23 m 22 
+e 22 u 21 , 19 p 13 g 12 
+v  9 b  8 y  7 j  6 .  6 
+d  6 c  2 h  1 z  1 
+Tekste nesantys simboliai:
+
+q  0 
+f  0 w  0 x  0 ;  0 -  0 
+

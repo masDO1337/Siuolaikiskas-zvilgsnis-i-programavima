@@ -1,0 +1,9 @@
+48
+p p b b z z r
+r v k v k z
+z k p p r r r
+p p p p p p p
+b b b b b r
+r v p p p p
+p p p p p p
+p p p

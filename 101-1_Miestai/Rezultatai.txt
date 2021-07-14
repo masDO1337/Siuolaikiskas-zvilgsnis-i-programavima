@@ -1,0 +1,13 @@
+----------------------------------
+Pradiniai duomenys
+----------------------------------
+Druskinikai
+Kazlu Ruda
+Pasvalys
+Kursenai
+Naujoji Akmene
+----------------------------------
+Isrinkti miestai
+----------------------------------
+Kazlu Ruda
+Naujoji Akmene

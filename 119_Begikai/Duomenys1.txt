@@ -1,0 +1,6 @@
+5
+Petras Pirmas        2 25
+Jurgis Antras        3 1
+Algis Trečias        0 59
+Robertas Ketvirtas   3 13
+Kasparas Penktas     2 45

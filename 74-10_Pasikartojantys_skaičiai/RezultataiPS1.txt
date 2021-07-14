@@ -1,0 +1,23 @@
+ Skaičių seka 
+----------------
+Kiekis  Skaičius
+   3   3
+   2   0
+   2   11
+   1   9
+   3   13
+   2   7
+   3   1
+----------------
+Skaičiaus 11 indeksas masyve 5
+ Skaičių seka 
+----------------
+Kiekis  Skaičius
+   3   3
+   2   0
+   3   11
+   1   9
+   3   13
+   2   7
+   3   1
+----------------

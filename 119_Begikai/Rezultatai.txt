@@ -1,0 +1,11 @@
+B�gik� finalinio b�gimo s�ra�as
+--------------------------------
+Vardas ir        Parodytas     B�gimo
+pavard�          laikas        takelis
+--------------------------------
+Algis Trečias       0 : 59    5
+Petras Pirmas        2 : 25    4
+Kasparas Penktas     2 : 45    3
+Jurgis Antras        3 : 1    2
+Robertas Ketvirtas   3 : 13    1
+--------------------------------

@@ -1,0 +1,4 @@
+1. Sukurti tris duomenø failus (duomenys8-1; duomenys8-2, duomenys8-3), pagal 63 psl. programos patikrinimo uþduotá
+2. Sukurti programos papildymà (rezultato failo vaizdas aplanke).
+3. Viskà atsiøsti
+

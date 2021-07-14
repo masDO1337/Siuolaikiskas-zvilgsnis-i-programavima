@@ -1,0 +1,11 @@
+void Salinti(int A[], int & n, int m)
+{ int i = 0;
+  while (i < n){
+  if (m == A[i]){
+    for (int j = i; j < n; j++)
+    A[j] = A[j + 1];
+    n--;
+  }
+  else i++;
+}
+}

@@ -1,0 +1,11 @@
+Mokini�, surinkusi� ne ma�iau kaip 15 ta�k�, s�ra�as
+----------------------------
+ Vardas Ta�kai 
+----------------------------
+ Petras          20        
+ Algis           18        
+ Kasparas        26        
+----------------------------
+Klas�s mokinys vidutini�kai surinko ta�k�: 17
+Atrinkti mokiniai vidutini�kai surinko ta�k�: 21
+Taikliausias mokinys: Kasparas surinko taškų: 26

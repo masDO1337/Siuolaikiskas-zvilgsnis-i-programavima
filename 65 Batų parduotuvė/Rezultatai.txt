@@ -1,0 +1,32 @@
+ Batu sarasas 
+--------------
+ Tipas Dydis 
+--------------
+   v     45
+   v     44
+   v     43
+   m     38
+   m     40
+   v     43
+   m     37
+   m     38
+   v     40
+   m     36
+   v     39
+--------------
+Mykolo 43-io dydzio batu indeksas masyve 2
+Marytes 38-o dydzio batu indeksas masyve 2
+ Batu sarasas 
+--------------
+ Tipas Dydis 
+--------------
+   v     45
+   v     44
+   m     40
+   v     43
+   m     37
+   m     38
+   v     40
+   m     36
+   v     39
+--------------

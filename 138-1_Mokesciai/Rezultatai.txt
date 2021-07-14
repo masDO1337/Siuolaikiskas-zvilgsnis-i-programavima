@@ -1,0 +1,14 @@
+Pavarde, Vardas     Buto Nr.  Sildymas  Eiektra   Vanduo    
+--------------------------------------------------------
+ Pirmasis Petras    15         5.50      0.00    -40.00
+ Antrute Jurgita    13       -25.05      2.50    -13.00
+ Katyte Pilkute     1         3.00      0.00      3.00
+ Katinas Batuotas   16        -5.50    -18.20    -45.00
+ Basas Algis        14        17.20      2.40     14.40
+--------------------------------------------------------
+Pavarde, Vardas     Buto Nr.  Sildymas  Eiektra   Vanduo    
+--------------------------------------------------------
+ Pirmasis Petras    15         5.50      0.00    -40.00
+ Antrute Jurgita    13       -25.05      2.50    -13.00
+ Katinas Batuotas   16        -5.50    -18.20    -45.00
+--------------------------------------------------------

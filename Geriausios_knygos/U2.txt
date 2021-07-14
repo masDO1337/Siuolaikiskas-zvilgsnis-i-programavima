@@ -1,0 +1,11 @@
+5 10
+Staigmenos ir kiti žinomi dalykai       5 4 3 6 8
+Ramybės nerimas                         8 8 0 8 7
+Dialogai su savimi                      7 8 7 8 8
+Paslaptis                               9 10 0 9 9
+Prarastas simbolis                      8 8 0 8 8
+Prisilietimas                           8 8 8 0 8
+Kur tu dabar esi?                       6 6 5 6 5
+Gamtos vaistinė                         5 5 0 5 5
+Nerimas                                 7 7 8 8 8
+Rytų Brangenybės užrašai                8 8 8 8 8
