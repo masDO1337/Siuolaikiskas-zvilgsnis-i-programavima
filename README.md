@@ -1,1 +1,1 @@
-# Siuolaikiskas-zvilgsnis-i-programavima
+# Siuolaikiskas zvilgsnis i programavima
